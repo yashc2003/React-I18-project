@@ -1,0 +1,18 @@
+{
+    "eng":{
+        "WelcomeMassage":"Welcome !",
+        "normalMassege":"We hope you enjoy learning React.",
+        "greetingMassage":"Have a great day!"
+
+    },
+    "mr":{
+        "WelcomeMassage":"स्वागत आहे!",
+        "normalMassege":"आम्हाला आशा आहे की तुम्हाला प्रतिक्रिया शिकायला आवडेल.",
+        "greetingMassage":"तुमचा दिवस चांगला जावो!"
+    },
+    "hin":{
+        "WelcomeMassage":"स्वागत है!",
+        "normalMassege":"हमें आशा है कि आपको रिएक्ट सीखने में आनंद आएगा।",
+        "greetingMassage":"आपका दिन अच्छा रहे!"
+    }
+}
